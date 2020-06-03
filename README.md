@@ -4,7 +4,7 @@ Docker Compose module for the project [Bundla](https://github.com/tgaru/bundla).
 
 ## Specifications
 
-**Key name:** `bundla/m-mysql-8.0`
+**Module-key:** `bundla/m-mysql-8.0`
 
 **Image based:** [mysql:8.0](https://hub.docker.com/_/mysql)
 
